@@ -4,6 +4,8 @@ Its a question answering system build for a text article. It takes a wikipedia u
 
 ## Proposed Solution
 
+The approach for the following, future improvements are discussed in the "report.pdf" 
+
 ## Dependencies
 
 The following packages are needed to run this project:
