@@ -17,3 +17,6 @@ The following packages are needed to run this project:
 ## Code
 
 The final code is in file "Main.ipynb".
+
+## FYI
+As used Anaconda Navigator and the virtual environment in that there are few many extra dependencies added in "requirements.txt"
